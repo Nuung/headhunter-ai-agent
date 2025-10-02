@@ -1,0 +1,1 @@
+"""Vector Store module for knowledge base RAG"""
